@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a01754574
 - 👀 I’m interested in coding and hacking
-- 🌱 I’m currently learning python and soon JS and Linux
+- 🌱 I’m currently learning python and c++ and soon Java and Linux
 
 
 <!---
