@@ -29,7 +29,7 @@
 - Twitter (Main): https://twitter.com/celfeercho
 - Twitter (Dev): https://twitter.com/elyayoveloz
 - GitHub: @Its-Yayo
-- Profile Site: https://itsyayo.github.io
+- Profile Site: https://its-yayo.github.io
 - YT Channel (Side project): https://www.youtube.com/channel/UC_bHbAMGcm1yLguVWJNUyLg/featured
 
 ### God bless y'all :)
