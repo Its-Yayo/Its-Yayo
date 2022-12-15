@@ -28,7 +28,7 @@
 ### Connect with me fellas :) ->
 - Twitter (Main): https://twitter.com/celfeercho
 - Twitter (Dev): https://twitter.com/elyayoveloz
-- GitHub: @a01754574
+- GitHub: @Its-Yayo
 - Profile Site: https://a01754574.github.io
 - YT Channel (Side project): https://www.youtube.com/channel/UC_bHbAMGcm1yLguVWJNUyLg/featured
 
