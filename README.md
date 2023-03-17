@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luis, or AKA Elyayoveloz :)
 ===================================================================================================================================================
 
-I'm currently a IT student, but mostly, I'm a self-taught programmer and ethical hacker (still on the road), mostly Red Team tactics.
+I'm currently an IT student, but mostly, I'm a self-taught programmer and ethical hacker (still on the road), mostly Red Team tactics.
 -------------------------------------------------------------------------------------------------------------------------------------
 
 I started my coding journey back in 2015 or 2016 (Idk lol), when my uncle shared me a C64 BASIC Emulator. It was fantastic, but it was in 2022 when I took this stuff seriously.
