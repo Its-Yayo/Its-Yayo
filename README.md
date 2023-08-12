@@ -7,7 +7,7 @@ I'm currently an IT student, but mostly, I'm a self-taught programmer and ethica
 I started my coding journey back in 2015 or 2016 (Idk lol), when my uncle shared me a C64 BASIC Emulator. It was fantastic, but it was in 2022 when I took this stuff seriously.
 
 * 🌍  I'm based in Mexico
-* 🖥️  See my portfolio at [Yayo's Portfolio](http://its-yayo.github.io)
+* 🖥️  See my portfolio at [Yayo's Site](http://its-yayo.github.io)
 * ✉️  You can contact me at [elyayoveloz@gmail.com](mailto:elyayoveloz@gmail.com)
 * 🧠  I'm learning Red teaming overview (Network Scanning, OSI Model...) Bash, OS Systems, Kernels, C/C++, Python, Rust, PHP, Perl, SQL...
 * 🤝  I'm open to collaborating on The GNU Project and any other open source project related to any areas and topics I said. (Currently, I'm setting up a single big project that'll be released in 3 years aprox. U guys will see it!)
