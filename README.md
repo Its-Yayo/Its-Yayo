@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm currently an IT student, but mostly, I'm a self-taught programmer and ethical hacker (still on the road), mostly Red Team tactics.
 -------------------------------------------------------------------------------------------------------------------------------------
 
-I started my coding journey back in 2015 or 2016 (Idk lol), when my uncle shared me a C64 BASIC Emulator. It was fantastic, but it was in 2022 when I took this stuff seriously.
+I like to hack things, to test out my knowledge and capabilities. 
 
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [Yayo's Site](http://its-yayo.github.io)
