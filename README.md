@@ -35,8 +35,6 @@ I like to hack things, to test out my knowledge and capabilities.
 
 <a href="http://www.github.com/its-yayo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=its-yayo&stroke=0891b2&background=1e3a8a&ring=6366f1&fire=6366f1&currStreakNum=0891b2&currStreakLabel=6366f1&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
-<a href="http://www.github.com/its-yayo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=its-yayo&bg_color=1e3a8a&color=0891b2&line=6366f1&point=0891b2&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 
 ### Support Me
 
