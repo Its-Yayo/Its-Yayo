@@ -29,12 +29,6 @@ I like to hack things, to test out my knowledge and capabilities.
 
 <p align="left"> <a href="https://www.github.com/its-yayo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/luis-de-león-a2b3bb245/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16699026/elyayoveloz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/elyayoveloz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/its-yayo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=its-yayo&stroke=0891b2&background=1e3a8a&ring=6366f1&fire=6366f1&currStreakNum=0891b2&currStreakLabel=6366f1&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
-
 
 ### Support Me
 
