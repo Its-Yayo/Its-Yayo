@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luis, or AKA Elyayoveloz :)
 ===================================================================================================================================================
 
-I'm a junior software engineer and pentester / red team student. I use Arch btw.
--------------------------------------------------------------------------------------------------------------------------------------
-
-I like to hack things, to test out my knowledge and capabilities. 
+I'm a junior software engineer and pentester / red team student. I use Arch btw. Also I like to hack things, to test out my knowledge and capabilities. 
 
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [Yayo's Site](http://its-yayo.github.io)
