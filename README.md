@@ -40,6 +40,10 @@ I'm a junior software engineer and pentester / red team student. Also I like to 
 
 #### Happy Coding :)
 
+> "Once they asked what the best race I've ever had in my career. 
+I always answer the same: The best race will be the next one" 
+Enzo Ferrari
+
 
 ![](https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif)
 
