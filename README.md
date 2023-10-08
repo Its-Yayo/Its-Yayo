@@ -4,7 +4,7 @@
 
 ### Yo fellass, my name is Luis, or AKA Elyayoveloz :)
 
-I'm a junior software engineer and pentester / red team student. Also I like to hack things, to test out my knowledge and capabilities. And I use Arch (BTW).
+I'm a junior software engineer and pentester / red team student. Also I like to hack things, to test out my knowledge and capabilities. And I use Arch btw.
 
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [Yayo's Site](http://its-yayo.github.io)
