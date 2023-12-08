@@ -17,7 +17,7 @@ I'm a junior software engineer and pentester / red team student. Also I like to 
 
 
 
-### Skills
+### I've been practising...
 
 
 <p align="left">
@@ -29,7 +29,7 @@ I'm a junior software engineer and pentester / red team student. Also I like to 
 </p>
 
 
-### Socials
+### Follow me
 
 <p align="left"> <a href="https://www.github.com/its-yayo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/luis-de-león-a2b3bb245/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16699026/elyayoveloz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/elyayoveloz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
 
