@@ -11,7 +11,7 @@ I'm a junior software engineer and pentester / red team student. I also like to 
 * ✉️  You can contact me [here](mailto:elyayoveloz@gmail.com)
 * 🧠  I'm learning Red teaming overview (Network Scanning, OSI Model...) Bash, OS Systems, Kernels, C/C++, Python, Rust, Perl, SQL...
 * 🤝  I'm open to collaborating on The GNU Project and any other open source project related to any areas and topics I said. (Currently, I'm setting up a single big project that'll be released in 3 years aprox. U guys will see it!)
-* ⚡  I'm a chess and bowling lover. My fav game of all time is Doom (the original one from 1993) and Doom2 (Yea, u guessed it right). Also I love a racing game called RallySport Challenge 2, launched in 2004. Check my portfolio for more info.
+* ⚡  I'm a chess and bowling lover. My fav game of all time is Doom (the original one from 1993) and Doom2 (Yea, u guessed it right). Also I love a racing game called RallySport Challenge 2, launched in 2004.
 * 🉐  I like to learn new languages (Currently I speak english, spanish, some french and a little german and italian)
 * 🌹  Some few special people inspire me to accomplish new challenges and to stare at life in a different way. I love them a lottt.
 
