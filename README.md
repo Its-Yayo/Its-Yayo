@@ -19,7 +19,7 @@ I'm a junior software engineer and a DevOps enthusiastic. I also like to hack th
 
 
 
-### I've been practising...
+### I've been learning...
 
 
 <p align="left">
