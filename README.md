@@ -4,7 +4,7 @@
 
 ### Yo fellass, my name is Luis, or AKA Elyayoveloz :)
 
-I'm a junior software engineer and a DevOps enthusiastic. I also like to hack things, to test out my knowledge and to challenge myself. And I use Arch btw. I'm a white hat. 
+I'm a junior software engineer and a DevOps enthusiastic. I also like to hack things, to test out my knowledge and to challenge myself. I use Arch btw. I'm a white hat and I'm bulding my purpose/eternity. 
 
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio [here](http://its-yayo.github.io)
@@ -15,7 +15,7 @@ I'm a junior software engineer and a DevOps enthusiastic. I also like to hack th
 * ⚡  I'm a chess and bowling lover. My fav game of all time is Doom (the original one) and Doom2 (Yea, u guessed it right). Also I love a racing game called RallySport Challenge 2. That's my fav racing gamee.
 * 🉐  I like to learn new languages (Currently I speak english, spanish, some french and a little german and italian)
 * 🌹  Some few special people inspire me to face new challenges and to stare at life in a different way. I love them a lottt.
-* 🌟  I'm building my purpose/eternity and my mind forever. That's how my energy is being made. 
+* 🌟  My self-energy is being made by the purpose. 
 
 
 
