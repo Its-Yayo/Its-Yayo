@@ -6,7 +6,6 @@
 
 I'm a junior software engineer and a DevOps enthusiastic. I also like to hack things, to test out my knowledge and to challenge myself. I use Arch btw. I'm a white hat and I'm bulding my purpose/eternity. 
 
-* 🌍  I'm based in Mexico
 * 🖥️  See my portfolio [here](http://its-yayo.github.io)
 * ✉️  You can contact me [here](mailto:elyayoveloz@gmail.com)
 * 🧠  I'm learning Red teaming overview (Network Scanning, OSI Model...) Bash, OS Systems, Kernels, C/C++, Python, Rust, Perl, SQL...
