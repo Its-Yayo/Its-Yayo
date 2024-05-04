@@ -14,7 +14,8 @@ I'm a junior software engineer and a DevOps enthusiastic. I also like to hack th
 * ⚡  I'm a chess and bowling lover. My fav game of all time is Doom (the original one) and Doom2 (Yea, u guessed it right). Also I love a racing game called RallySport Challenge 2. That's my fav racing gamee.
 * 🉐  I like to learn new languages (Currently I speak english, spanish, some french and a little german and italian)
 * 🌹   Some few special people inspire me to face new challenges and to stare at life in a different way. I love them a lottt.
-* 🌟  Since I'm different, I give energy towards myself and my surroundings from my purpose. I build my mind in the present, so it is a complete different energy. 
+* 🌟  Since I'm different, I give energy towards myself and my surroundings from my purpose. I build my mind in the present, so it is a complete different energy.
+* 🌙  Besides coding, I'm learning about the mind (neurology), astronomy, nature and finances :)
 
 
 
