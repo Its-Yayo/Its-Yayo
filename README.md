@@ -4,7 +4,7 @@
 
 ### Yo fellass, my name is Luis, or AKA Elyayoveloz :)
 
-I'm a junior software engineer and a DevOps enthusiastic. I also like to hack things, to test out my knowledge and to challenge myself. I use Arch btw. I'm a white hat and I'm re-educating my mind to build my purpose/eternity. 
+I'm a junior software engineer and a DevOps enthusiastic. I also like to hack things, to test out my knowledge and to challenge myself. I use Arch btw and I'm a white hat. I'm re-educating my mind to build my purpose/eternity. 
 
 * 🖥️  See my portfolio [here](http://its-yayo.github.io)
 * ✉️  You can contact me [here](mailto:elyayoveloz@gmail.com)
