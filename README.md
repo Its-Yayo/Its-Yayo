@@ -13,7 +13,7 @@ I'm a junior software engineer and a DevOps enthusiastic. I also like to hack th
 * 🤝  I'm open to collaborating on the GNU Project and any other open source project related to any areas and topics I said. (Currently, I'm setting up a single big project that'll be released soon. U guys will see it!)
 * ⚡  I'm a chess and bowling lover. My fav game of all time is Doom (the original one) and Doom2 (Yea, u guessed it right). Also I love a racing game called RallySport Challenge 2. That's my fav racing gamee.
 * 🉐  I like to learn new languages (Currently I speak english, spanish, some french and a little german and italian)
-* 🌹  Some few special people are in my purpose. I love them a lottt.
+* 🌹  Some few special people are a small part of my purpose. I love them a lottt.
 * 🌟  Since I'm different, I give energy towards myself and my surroundings from my purpose. I build my mind in the present, so it is a complete different energy.
 * 🌙  Besides coding, I'm learning about the mind (neurology), astronomy, nature and finances :)
 
