@@ -15,7 +15,7 @@ I'm a junior software develeper and a DevOps enthusiastic and I'm currently stud
 * 🉐  I like to learn new languages (Currently I speak english, spanish, some french and a little german and italian)
 * 🌹  Some few special people are a small part of my purpose. I love them a lottt.
 * 🌟  Since I'm different, I give energy towards myself and my surroundings from my purpose. I build my mind in the present, so it is a complete different energy.
-* 🌙  Besides coding, I'm learning about the mind (neurology), astronomy, nature and finances :)
+* 🌙  Besides coding, I'm learning about the mind (neurology and psychoneuroimmunology), astronomy, nature and finances :)
 
 
 
