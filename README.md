@@ -8,7 +8,7 @@ I am Yayo it is good to be here
 I'm a junior software developer and a DevOps enthusiastic and I'm currently studying at university. I also like to discover things, to test out my knowledge and to challenge myself. 
 I use Arch btw and I'm a white hat. I'm re-educating my mind to build my purpose/eternity. 
 
-You can find more info about me in my [portfolio](https://its-yayo.github.
+You can find more info about me in my [portfolio](https://its-yayo.github.io)
 
 
 ### I've been learning...
